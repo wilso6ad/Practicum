@@ -1,0 +1,4 @@
+00001, Tsword, Long and sharp, 400,
+00002, Taiwans blade, curvy and sharp, 780,
+00003, heimdals helmet, Hard and robust, 670,
+00004, Dragons canon, Robust and powerful, 2000,
